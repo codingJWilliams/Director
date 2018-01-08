@@ -1,0 +1,17 @@
+{
+  "name": "director",
+  "version": "1.0.0",
+  "description": "A program to connect all of my bots together",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jay Williams",
+  "license": "MIT",
+  "dependencies": {
+    "guid": "0.0.12",
+    "sha256": "^0.2.0",
+    "socket.io": "^2.0.4",
+    "uniqid": "^4.1.1"
+  }
+}
